@@ -1,5 +1,5 @@
 
-# Skin Cancer Detection using VGG-16 deep learning model
+# Skin Cancer Detection using VGG-16 deep learning model.
 
 This projects aims to detect skin cancer in patients based on image and it classifies weather the patient has cancer or not. That is, it calssifies weather the cancer is malignant (bad) or bening (good).
 
